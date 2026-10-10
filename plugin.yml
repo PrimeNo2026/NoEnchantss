@@ -1,0 +1,5 @@
+name: NoEnchants
+version: 1.0.0
+main: noenchants.NoEnchants
+api-version: '26.3'
+description: Keine verzauberten Maces oder Elytras auf dem Server
